@@ -276,7 +276,8 @@ CoolUiWidget widget =
 
 ### Line Length
 
-Lines should be no longer than **100** characters long. In Visual Studio, you can use the following tool: https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines#overview
+Lines should be no longer than **100** characters long. 
+In Visual Studio, you can use the following tool: https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines#overview
 
 ### Vertical Spacing
 
